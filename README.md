@@ -1,2 +1,1 @@
-# nus-iss-dso
-DevSecOps
+# Project A
